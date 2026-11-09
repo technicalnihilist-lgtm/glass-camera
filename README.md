@@ -13,7 +13,7 @@ camera permission, a fullscreen window and a working gallery.
 
 ## Install
 
-1. Download [`GlassCamera.apk`](GlassCamera.apk) and copy it to your phone.
+1. Download [`GlassCamera.apk`](https://github.com/technicalnihilist-lgtm/glass-camera/releases/download/v1.0/GlassCamera.apk) from the [latest release](https://github.com/technicalnihilist-lgtm/glass-camera/releases/latest) and copy it to your phone.
 2. Open the file. Allow **install unknown apps** for your browser or file manager if prompted.
 3. Android may warn that the app is from an unknown developer — it is self-signed, not published on
    the Play Store, so that prompt is expected.
