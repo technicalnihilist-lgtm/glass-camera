@@ -6,9 +6,15 @@ The whole interface is one HTML file with WebGL glass shaders; a small native An
 camera permission, a fullscreen window and a working gallery.
 
 <p align="center">
-  <img src="screenshots/camera.png" width="300" alt="Camera viewfinder">
-  &nbsp;&nbsp;
-  <img src="screenshots/settings.png" width="300" alt="Settings sheet">
+  <img src="icon.png" width="96" alt="Glass Camera icon">
+</p>
+
+<p align="center">
+  <img src="screenshots/camera.png" width="240" alt="Camera viewfinder">
+  &nbsp;
+  <img src="screenshots/gallery.png" width="240" alt="Gallery review">
+  &nbsp;
+  <img src="screenshots/settings.png" width="240" alt="Settings sheet">
 </p>
 
 ## Install
@@ -50,7 +56,8 @@ an asset.
 ```
 GlassCamera.apk          signed, installable build
 glass-camera.html        the app itself — one self-contained file
-screenshots/             camera viewfinder and settings sheet
+icon.png                 512x512 app icon
+screenshots/             viewfinder, gallery and settings sheet
 ```
 
 ### Building from source
