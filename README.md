@@ -96,3 +96,17 @@ The liquid-glass rendering is a WebGL port of the AGSL shaders from **PrismalAGS
 [Styropyr0](https://github.com/Styropyr0) — rectangle refraction, dispersion, ambient/default
 specular, gradient glass and the colour controls. UI typeface is Inter (Google Fonts), with a system
 fallback when offline.
+
+---
+
+## ☕ Donate / Buy me a coffee
+
+**Coming soon** — our donation options are on the way.
+
+| Platform | Status |
+| --- | --- |
+| Paytm | Coming soon |
+| PayPal | Coming soon |
+| GPay (Google Pay) | Coming soon |
+
+If you like our work, you can support us with a donation. We are bringing this very soon — **coming soon**.
